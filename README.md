@@ -46,5 +46,3 @@ blaze-bank/
 ├── app.py              # Main Streamlit frontend
 ├── backend.py          # Python OOP-based banking logic
 ├── README.md           # Project overview and instructions
-├── requirements.txt    # Dependencies for Streamlit app
-└── .gitignore
