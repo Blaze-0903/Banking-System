@@ -6,7 +6,7 @@ Blaze Bank is a modern, secure, and personalized digital banking platform built 
 
 ## 🚀 Live App
 
-👉 **Streamlit App**: [Click here to launch Blaze Bank](https://your-streamlit-app-link-here)
+👉 **Streamlit App**: [Click here to launch Blaze Bank](https://banking-system-vp7gp8unh2gyfkyawvgb2y.streamlit.app/)
 
 > Replace the above link with your actual deployed Streamlit app URL.
 
