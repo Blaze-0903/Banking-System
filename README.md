@@ -14,7 +14,14 @@ Blaze Bank is a modern, secure, and personalized digital banking platform built 
 
 ## 📸 Preview
 
-![Blaze Bank Home Page Screenshot](https://your-screenshot-link-if-any)
+![image](https://github.com/user-attachments/assets/a8358a67-7d82-4efe-a8ba-4316e11b2afc)
+
+![image](https://github.com/user-attachments/assets/8b240f8b-e825-43aa-bae7-0902159ab50c)
+
+![image](https://github.com/user-attachments/assets/543b9af4-5b4d-4115-85db-16963b8dec3c)
+
+![image](https://github.com/user-attachments/assets/c66b8806-b741-4864-a405-e85818b71f30)
+
 
 ---
 
